@@ -22,7 +22,7 @@ export default function Home() {
       </Head>
       <BannerSectionMain />
 
-      <main style={{ position: "relative", minHeight: "100vh" }}>
+      <main>
         <div className="container">
           <AboutCompanySection />
           <ValuesSection />
